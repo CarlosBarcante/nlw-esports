@@ -14,11 +14,11 @@ export const styles = StyleSheet.create({
     },
     footer: {
         width: '100%',
-        height: 102,
+        height: 103,
         padding: 16,
-        justifyContent: 'center'
+        justifyContent: 'center',
     },
-    name: {
+    title: {
         color: THEME.COLORS.TEXT,
         fontSize: THEME.FONT_SIZE.MD,
         fontFamily: THEME.FONT_FAMILY.BOLD
